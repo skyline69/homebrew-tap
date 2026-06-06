@@ -1,6 +1,6 @@
 cask "ext-selector" do
-  version "1.0.0"
-  sha256 "255ade45c9717f617adf5d7fff4d3d815b1a683821fdbc8669d0ca2f8a93ded8"
+  version "1.0.1"
+  sha256 "ba8fac2d6d545fd7e7929449cae69a7d73f75203695d24cc88f9b400faedb0e3"
 
   url "https://github.com/skyline69/ext-selector/releases/download/v#{version}/ExtSelector-#{version}.zip",
       verified: "github.com/skyline69/ext-selector/"
