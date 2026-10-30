@@ -1,6 +1,6 @@
 cask "tron" do
-  version "0.4.6"
-  sha256 "635f2c2acdf1a4d454f6f0588b8a19cc8d8e8ad58e0d98f89d33993399fb7e08"
+  version "0.4.7"
+  sha256 "c4c5f348a2c19cc8d4127bda997bae3867a5ae37422f4fb0e25413100fafb79e"
 
   url "https://github.com/skyline69/tron-terminal/releases/download/v#{version}/tron-#{version}-macos.dmg"
   name "tron"
